@@ -1,4 +1,4 @@
-# 💫 Sharayu Nagre  
+# 💫 Hi, I am Sharayu Nagre!!! 
 
 🎓 MS in Computer Science (Data Science) @ USC  
 💡 AI Engineer | Full-Stack Developer | ML Systems Builder  
