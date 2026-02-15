@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 About Me: SHARAYU NAGRE
 Hi, I’m Sharayu 👋<br><br>I’m a Computer Science (Data Science) graduate student at USC with a strong foundation in AI, machine learning, and full-stack software development. I enjoy building intelligent, end-to-end systems — from data pipelines and ML models to scalable backend services and clean user interfaces.<br><br>My work spans predictive modeling, NLP, computer vision, and LLM-based applications, with hands-on experience using frameworks like TensorFlow, PyTorch, Flask, React, and LangChain. I’m especially interested in turning research and models into real-world, production-ready software that’s reliable, interpretable, and impactful.
 
 
