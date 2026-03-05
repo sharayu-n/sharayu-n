@@ -1,7 +1,7 @@
 # 💫 Hi, I am Sharayu Nagre!!! 
 
 🎓 MS in Computer Science (Data Science) @University of Southern California                                         
-💡 AI Engineer | Full-Stack Developer | ML Systems Builder 
+💡 AI Engineer | Full-Stack Developer | ML Systems Builder | Aspiring Data Scientist                                                                                              
 📍 Los Angeles, CA  
 
 ---
